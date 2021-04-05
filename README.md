@@ -1,2 +1,2 @@
-# theraeven
-TheRaeven
+# Blog
+Dan N - entrepreneur & web designer
