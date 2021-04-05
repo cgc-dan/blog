@@ -1,2 +1,1 @@
-# Blog
-Dan N - entrepreneur & web designer
+# Dan N - entrepreneur & web designer
